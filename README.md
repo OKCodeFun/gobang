@@ -20,3 +20,4 @@ Usage(使用方法)
   
  5.run start.bat
   运行 start.bat
+![image](https://user-images.githubusercontent.com/120114466/206836250-b3047bc9-a96b-45d7-951c-b5bf76efe072.png)
